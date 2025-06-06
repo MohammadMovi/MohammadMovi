@@ -1,8 +1,8 @@
 <div align="center">
   <img src="VDTeam.png" width="160" alt="VDTeam Logo" />
   
-  <h1 align="center" style="color:#39FF14;font-family:monospace;font-size:2.5em;margin-bottom:0;">
-    <span style="background: linear-gradient(90deg, #00f0ff, #ff00cc); -webkit-background-clip: text; color: transparent;">Hi, I'm Mohammad Ahmadi</span>
+  <h1 align="center" style="font-family:monospace;font-size:2.5em;margin-bottom:0;background: linear-gradient(90deg, #00f0ff, #ff00cc); -webkit-background-clip: text; color: transparent;">
+    Hi, I'm Mohammad Ahmadi
   </h1>
   <p style="color: #999; font-size: 1.2em; font-family: monospace;">
     aka <strong>Movi</strong> | System Engineer • AI Enthusiast • DevOps Explorer
@@ -10,6 +10,8 @@
 </div>
 
 ---
+
+<img src="Ovi.jpg" width="150" align="right" style="margin-left: 20px; border-radius: 12px; box-shadow: 0 0 15px #00f0ff80;" alt="Oviraptor - Movi Symbol" />
 
 ## 🧠 About Me
 
@@ -26,11 +28,6 @@
 - 🌐 Frameworks: `ASP.NET Core`, `WinForms`, `Blazor`
 - 🐳 Tools: `Docker`, `SQL Server`, `Git`, `GitHub Actions`
 - 📚 Learning: OS internals, compiler design, structured logging
-
-<p align="center">
-  <img src="Ovi.jpg" width="200" alt="Oviraptor - Movi Symbol" />
-  <br><sub><i>Smart. Fast. Unpredictable — Inspired by Oviraptor</i></sub>
-</p>
 
 ---
 
@@ -56,9 +53,9 @@ Concepts:     OS Internals, Memory, Virtualization
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMovi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMovi&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 0 15px #ff00cc80;"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMovi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMovi&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 12px; margin-top: 10px; box-shadow: 0 0 15px #00f0ff80;"/>
 </p>
 
 ---
@@ -67,14 +64,18 @@ Concepts:     OS Internals, Memory, Virtualization
 
 🚀 Two powerful platforms under construction:
 
-- **[vanguarddevelopers.ir](http://vanguarddevelopers.ir)** — Personal DevOps-driven landing page & portfolio
-- **[vdteam.ir](http://vdteam.ir)** — Academic hub focused on real-world programming topics, including:
-  - 🧪 Advanced .NET Benchmarking (e.g., Dapper vs EF Core)
-  - 📦 TVP (Table-Valued Parameters) & performance in SQL Server
-  - ♻️ Object Pooling and GC usage across multiple languages
-  - 📈 Logging strategies, low-level optimization, and production-ready patterns
+### **🎯 [vanguarddevelopers.ir](http://vanguarddevelopers.ir)**  
+Personal DevOps-driven landing page & portfolio — will showcase Mohammad's core engineering stack, products, CI/CD pipelines, and professional brand.
 
-🎓 This academic platform aims to bridge theory with practical, high-performance engineering.
+### **📘 [vdteam.ir](http://vdteam.ir)**  
+Academic platform for high-performance programming topics:
+- 🧪 **.NET Benchmarking** (e.g., Dapper vs EF Core)
+- 📦 **TVP** in SQL Server
+- ♻️ **Object Pooling and GC** usage in C#, Python, and more
+- 🔍 Logging strategies & structured tracing
+- 🧠 Architecture patterns and real-world refactoring techniques
+
+🎓 **vdteam.ir** bridges theory with deep production experience — developed by professionals, for professionals.
 
 ---
 
