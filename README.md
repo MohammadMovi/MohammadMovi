@@ -28,7 +28,6 @@
 - 📚 Learning: OS internals, compiler design, structured logging
 
 <p align="center">
-
   <img src="Ovi.jpg" width="200" alt="Oviraptor - Movi Symbol" />
   <br><sub><i>Smart. Fast. Unpredictable — Inspired by Oviraptor</i></sub>
 </p>
@@ -39,8 +38,6 @@
 
 ### 🔷 [VDOS](https://github.com/MohammadMovi/VDOS)
 > Virtual OS simulator using custom bytecode engine — built for learning low-level computing.
-
-
 
 ---
 
@@ -53,6 +50,24 @@ DevOps:       Docker, GitHub Actions, CI/CD
 Database:     SQL Server, T-SQL
 Concepts:     OS Internals, Memory, Virtualization
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMovi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMovi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Personal Landing Page
+
+🚧 Coming Soon: A fully interactive landing page to showcase my work, tools, and learning roadmap — built with **Next.js + TailwindCSS + GitHub Actions**.
+
+Stay tuned at → [vanguarddevelopers.ir](http://vanguarddevelopers.ir)
 
 ---
 
