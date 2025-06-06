@@ -63,11 +63,18 @@ Concepts:     OS Internals, Memory, Virtualization
 
 ---
 
-## 🌐 Personal Landing Page
+## 🌐 Personal & Academic Projects
 
-🚧 Coming Soon: A fully interactive landing page to showcase my work, tools, and learning roadmap — built with **Next.js + TailwindCSS + GitHub Actions**.
+🚀 Two powerful platforms under construction:
 
-Stay tuned at → [vanguarddevelopers.ir](http://vanguarddevelopers.ir)
+- **[vanguarddevelopers.ir](http://vanguarddevelopers.ir)** — Personal DevOps-driven landing page & portfolio
+- **[vdteam.ir](http://vdteam.ir)** — Academic hub focused on real-world programming topics, including:
+  - 🧪 Advanced .NET Benchmarking (e.g., Dapper vs EF Core)
+  - 📦 TVP (Table-Valued Parameters) & performance in SQL Server
+  - ♻️ Object Pooling and GC usage across multiple languages
+  - 📈 Logging strategies, low-level optimization, and production-ready patterns
+
+🎓 This academic platform aims to bridge theory with practical, high-performance engineering.
 
 ---
 
