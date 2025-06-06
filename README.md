@@ -40,11 +40,7 @@
 ### 🔷 [VDOS](https://github.com/MohammadMovi/VDOS)
 > Virtual OS simulator using custom bytecode engine — built for learning low-level computing.
 
-### 🔷 [SystemAccessManager](https://github.com/MohammadMovi/SystemAccessManager)
-> Enterprise-grade Windows access control module (C# WinForms + T-SQL)
 
-### 🔷 [Test_Project](https://github.com/MohammadMovi/Test_Project)
-> Personal playground for API testing, CI/CD experiments, and automation pipelines.
 
 ---
 
