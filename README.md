@@ -93,5 +93,5 @@ Academic platform for high-performance programming topics:
     "Real Code. Real Bugs. Real Experience."
   </em></strong>
   <br/>
-  <sub style="color:#888;">— Member of <strong>VDTeam</strong> since 2017</sub>
+  <sub style="color:#888;">— Member of <strong> VDTeam</strong> since 2017</sub>
 </div>
