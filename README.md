@@ -36,6 +36,35 @@
 ### 🔷 [VDOS](https://github.com/MohammadMovi/VDOS)
 > Virtual OS simulator using custom bytecode engine — built for learning low-level computing.
 
+
+# 🚀 [VDVERO – Version Lifecycle Management Platform]( https://github.com/MohammadMovi/VDVERO)
+
+**VDVERO** is a full-featured platform built by **VanDevTeam** to manage the complete lifecycle of software versions — from internal registration to external delivery. It integrates modern **QA-first practices**, **DevOps pipelines**, and prepares teams for **ISO-aligned** deployment environments.
+
+---
+
+## 🧱 Architecture Highlights
+
+- **.NET 8** Blazor Server-side application
+- **Clean Architecture** with CQRS pattern
+- **EF Core** for ORM and migrations
+- **JWT / ASP.NET Core Identity** for authentication & authorization
+- **ISO-aligned** documentation structure (25010, 12207, 9001)
+- **CI/CD Ready** with GitHub Actions integration
+- **Docker-based deployment**
+
+---
+
+## 📍 Project Phases
+
+1. ✅ **Foundation & MVP** – Core structure, app/module/version/QA logic
+2. 🔐 **User Management** – Roles, Auth, Access Control, Logging
+3. 📦 **Customer Delivery** – Version assignment, secure downloads
+4. ⚙️ **DevOps Integration** – Webhooks, auto-versioning, pipelines
+5. 📊 **QA Intelligence** – Checklists, scores, reports, traceability
+6. 🛡️ **Security & Branding** – Encryption, theme, ISO alignment
+
+---
 ---
 
 ## 🛠 Tech Toolbox
