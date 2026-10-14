@@ -12,9 +12,8 @@ I build backend applications and developer platforms with C#/.NET, focusing on c
 - **Delivery:** Docker, GitHub Actions, CI/CD
 - **Systems:** C++, Python, x86 Assembly, OS internals, and virtualization
 
-## Selected projects
+## Selected public projects
 
-- **[VDVERO](https://github.com/MohammadMovi/VDVERO)** — Version lifecycle management platform built with VanDevTeam, with QA workflows and DevOps delivery in mind.
 - **[VDOS](https://github.com/MohammadMovi/VDOS)** — Virtual OS simulator powered by a custom bytecode engine.
 - **[SystemAccessManager](https://github.com/MohammadMovi/SystemAccessManager)** — Windows access-control project.
 
