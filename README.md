@@ -22,6 +22,7 @@ I combine hands-on software development with Scrum and team facilitation. I buil
 
 - **[VDOS](https://github.com/MohammadMovi/VDOS)** — Virtual OS simulator powered by a custom bytecode engine.
 - **[SystemAccessManager](https://github.com/MohammadMovi/SystemAccessManager)** — Windows access-control project.
+- **[SEC1 — Password Hashing Basics](https://github.com/MohammadMovi/SEC1-Password-Hasher-Basic-Crypto)** — Educational Python project comparing bcrypt with fast SHA hash demos, with hidden CLI input and tests.
 
 ## Currently exploring
 
