@@ -1,126 +1,27 @@
-<div align="center">
-  <img src="VDTeam.png" width="160" alt="VDTeam Logo" />
-  
-  <h1 align="center" style="font-family:monospace;font-size:2.5em;margin-bottom:0;background: linear-gradient(90deg, #00f0ff, #ff00cc); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Mohammad Ahmadi
-  </h1>
-  <p style="color: #999; font-size: 1.2em; font-family: monospace;">
-    aka <strong>Movi</strong> | System Engineer • AI Enthusiast • DevOps Explorer
-  </p>
-</div>
+# Mohammad Ahmadi
 
----
+**Systems Engineer · .NET Developer · Software Architecture & DevOps**
 
-<img src="Ovi.jpg" width="150" align="right" style="margin-left: 20px; border-radius: 12px; box-shadow: 0 0 15px #00f0ff80;" alt="Oviraptor - Movi Symbol" />
+I build backend applications and developer platforms with C#/.NET, focusing on clear APIs, maintainable systems, and reliable delivery.
 
-## 🧠 About Me
+## Focus areas
 
-- 🧬 Nickname: **Movi** — "M" from *Mohammad* + "Ovi" (from *Oviraptor*, a fast, observant dinosaur 🦖 — like code should be)
-- 🕹 Passionate about **CS:GO** — strategic gameplay and fast decision-making influence how I code and debug.
-- 🧩 First Programming Language: `Pawn` (SAMP modding) — started as a translator, later built automation tools.
-- 🌐 From there: `WordPress` → `PHP` → and fully professional in `C#` during the last 3 years.
-- 🎯 Career Path:
-  - 🔄 First step: Become a **Scrum Master** — team orchestration, Agile delivery & planning.
-  - 🧠 Long-term: Dive into **Artificial Intelligence**, focusing on automation, smart systems & optimization.
-- ⚙️ Passionate about DevOps, learning CI/CD automation, infrastructure-as-code & GitHub Actions.
-- 🔬 Exploring: OS Development, Reverse Engineering, Virtualization
-- 💻 Languages: `C#`, `C++`, `Python`, `Assembly (x86)`
-- 🌐 Frameworks: `ASP.NET Core`, `WinForms`, `Blazor`
-- 🐳 Tools: `Docker`, `SQL Server`, `Git`, `GitHub Actions`
-- 📚 Learning: OS internals, compiler design, structured logging
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core
+- **Applications:** Blazor, WinForms, REST APIs
+- **Data:** SQL Server, PostgreSQL
+- **Delivery:** Docker, GitHub Actions, CI/CD
+- **Systems:** C++, Python, x86 Assembly, OS internals, and virtualization
 
----
+## Selected projects
 
-## 🚀 Featured Projects
+- **[VDVERO](https://github.com/MohammadMovi/VDVERO)** — Version lifecycle management platform built with VanDevTeam, with QA workflows and DevOps delivery in mind.
+- **[VDOS](https://github.com/MohammadMovi/VDOS)** — Virtual OS simulator powered by a custom bytecode engine.
+- **[SystemAccessManager](https://github.com/MohammadMovi/SystemAccessManager)** — Windows access-control project.
 
-### 🔷 [VDOS](https://github.com/MohammadMovi/VDOS)
-> Virtual OS simulator using custom bytecode engine — built for learning low-level computing.
+## Currently exploring
 
+AI-assisted automation, operating-system internals, virtualization, and compiler design.
 
-# 🚀 [VDVERO – Version Lifecycle Management Platform]( https://github.com/MohammadMovi/VDVERO)
+## Connect
 
-**VDVERO** is a full-featured platform built by **VanDevTeam** to manage the complete lifecycle of software versions — from internal registration to external delivery. It integrates modern **QA-first practices**, **DevOps pipelines**, and prepares teams for **ISO-aligned** deployment environments.
-
----
-
-## 🧱 Architecture Highlights
-
-- **.NET 8** Blazor Server-side application
-- **Clean Architecture** with CQRS pattern
-- **EF Core** for ORM and migrations
-- **JWT / ASP.NET Core Identity** for authentication & authorization
-- **ISO-aligned** documentation structure (25010, 12207, 9001)
-- **CI/CD Ready** with GitHub Actions integration
-- **Docker-based deployment**
-
----
-
-## 📍 Project Phases
-
-1. ✅ **Foundation & MVP** – Core structure, app/module/version/QA logic
-2. 🔐 **User Management** – Roles, Auth, Access Control, Logging
-3. 📦 **Customer Delivery** – Version assignment, secure downloads
-4. ⚙️ **DevOps Integration** – Webhooks, auto-versioning, pipelines
-5. 📊 **QA Intelligence** – Checklists, scores, reports, traceability
-6. 🛡️ **Security & Branding** – Encryption, theme, ISO alignment
-
----
----
-
-## 🛠 Tech Toolbox
-
-```txt
-Languages:    C#, C++, Python, Assembly (x86)
-Frameworks:   ASP.NET Core, WinForms, Blazor
-DevOps:       Docker, GitHub Actions, CI/CD
-Database:     SQL Server, T-SQL
-Concepts:     OS Internals, Memory, Virtualization
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMovi&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 0 15px #ff00cc80;"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMovi&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 12px; margin-top: 10px; box-shadow: 0 0 15px #00f0ff80;"/>
-</p>
-
----
-
-## 🌐 Personal & Academic Projects
-
-🚀 Two powerful platforms under construction:
-
-### **🎯 [vanguarddevelopers.ir](http://vanguarddevelopers.ir)**  
-Personal DevOps-driven landing page & portfolio — will showcase Mohammad's core engineering stack, products, CI/CD pipelines, and professional brand.
-
-### **📘 [vdteam.ir](http://vdteam.ir)**  
-Academic platform for high-performance programming topics:
-- 🧪 **.NET Benchmarking** (e.g., Dapper vs EF Core)
-- 📦 **TVP** in SQL Server
-- ♻️ **Object Pooling and GC** usage in C#, Python, and more
-- 🔍 Logging strategies & structured tracing
-- 🧠 Architecture patterns and real-world refactoring techniques
-
-🎓 **vdteam.ir** bridges theory with deep production experience — developed by professionals, for professionals.
-
----
-
-## 📫 Let's Connect
-
-- 🌍 Website: [vanguarddevelopers.ir](http://vanguarddevelopers.ir)
-- 💼 LinkedIn: [linkedin.com/in/mohammad-ahmadi-12a709166](https://www.linkedin.com/in/mohammad-ahmadi-12a709166/)
-- 🐙 GitHub: [@MohammadMovi](https://github.com/MohammadMovi)
-- 📸 Instagram: [@mohammadahmadi](https://www.instagram.com/mohammadahmadi/)
-
----
-
-<div align="center">
-  <strong><em style="color:#39FF14;font-family:monospace;font-size:1.2em;">
-    "Real Code. Real Bugs. Real Experience."
-  </em></strong>
-  <br/>
-  <sub style="color:#888;">— Member of <strong> VDTeam</strong> since 2017</sub>
-</div>
+[Website](https://vanguarddevelopers.ir) · [LinkedIn](https://linkedin.com/in/mohammad-ahmadi-12a709166) · [GitHub](https://github.com/MohammadMovi)
